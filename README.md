@@ -13,6 +13,7 @@ Download haarcascades file from here: https://github.com/opencv/opencv/blob/mast
 * pip install opencv-python
 * pip install tensorflow
 * pip install keras
+* pip install pandas
 
 ## Reference
 http://sefiks.com/2018/01/01/facial-expression-recognition-with-keras
