@@ -17,3 +17,6 @@ Download haarcascades file from here: https://github.com/opencv/opencv/blob/mast
 
 ## Reference
 http://sefiks.com/2018/01/01/facial-expression-recognition-with-keras
+
+
+## Also learn Face and Gesture detection https://www.youtube.com/watch?v=_BaKsFazN3E
